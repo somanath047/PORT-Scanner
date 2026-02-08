@@ -1,0 +1,11 @@
+# requirements.txt
+# Ethical Hacking Basics - Python 3.10.10
+# Windows 11 Compatible
+
+requests==2.31.0
+beautifulsoup4==4.12.2
+colorama==0.4.6
+scapy==2.5.0
+cryptography==41.0.7
+paramiko==3.3.1
+pillow==10.1.0
